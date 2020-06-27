@@ -6,6 +6,4 @@ body{
 text-align: center;
     font-family: 'Lobster', cursive;
 }
-@media (max-width:240px){
-body{
-    font-family: Georgia, 'Times New Roman', Times, serif;}}
+@media(max-width:240px){body{font-family: 'Times New Roman', Times, serif;}}
