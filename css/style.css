@@ -1,3 +1,16 @@
 .h1 {
     color: yellow;
 }
+
+body{
+    font-family: 'Lobster', cursive;
+}
+
+@media (max-width: 240px) { /* CSS Rules */
+:body {
+text-align: center;
+font-family: Arial, Helvetica, sans-serif;
+
+} 
+
+}
