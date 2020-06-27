@@ -3,12 +3,13 @@
 }
 
 body{
+text-align: center;
     font-family: 'Lobster', cursive;
 }
 
-@media (max-width: 240px) { /* CSS Rules */
+@media (max-width: 240px) { 
 :body {
-text-align: center;
+text-align:justify;
 font-family: Arial, Helvetica, sans-serif;
 
 } 
