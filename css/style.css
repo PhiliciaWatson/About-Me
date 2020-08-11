@@ -1,9 +1,18 @@
 .h1 {
-    color: yellow;
+    color:gold;
+    text-shadow: 2px 3px 4px hotpink;
 }
 
 body{
 text-align: center;
     font-family: 'Lobster', cursive;
 }
-@media(max-width:240px){body{font-family: 'Times New Roman', Times, serif;}}
+
+@media(max-width:140px){
+    body{text-align:center;
+    font-size:10x;
+}}
+.melanie-image-1{
+    height:100px;
+    width:100px;
+}
